@@ -65,7 +65,7 @@ It includes the three required application areas:
 ```text
 backend/   Laravel API and broadcasting
 frontend/  React application for CRM, Admin, and User portals
-screenshot/ optional project screenshots for review
+screenshots/ project screenshots for review
 ```
 
 The frontend is a single React app with separate route areas:
@@ -217,7 +217,21 @@ npm run build
 
 ## Screenshots
 
-Project screenshots are available in the [`screenshot`](./screenshot) folder.
+### Overview
+
+![Overview](./screenshots/overview.png)
+
+### CRM Application
+
+![CRM Application](./screenshots/crm.png)
+
+### Admin Application
+
+![Admin Application](./screenshots/organizer.png)
+
+### User Application
+
+![User Application](./screenshots/user.png)
 
 ## Interview Notes
 
